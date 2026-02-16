@@ -1,0 +1,3 @@
+REQUIREMENTS:
+   1. Python must be downloaded and installed on users pc
+   2. Must have the requests package installed, to install go into the operating systems terminal and type the following "pip import requests
